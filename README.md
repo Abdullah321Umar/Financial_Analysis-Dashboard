@@ -33,6 +33,7 @@ Line charts or trend graphs to observe financial performance over time.
 Highlight key figures at a glance for executive summary.
 
 
+
 ## 🛠 Tools & Techniques Used
 The dashboard was built using the following tools and technologies:
 
@@ -42,6 +43,8 @@ The dashboard was built using the following tools and technologies:
 - Data Modeling – Established relationships between sales, products, regions, and cost tables
 - Visual Tools – Bar charts, line graphs, stacked visuals, KPIs, slicers
 - UX Features – Slicers for filtering by region, product, or time periodes
+
+
 
 ## 🚀 Business Impact
 
